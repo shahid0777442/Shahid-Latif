@@ -7,7 +7,7 @@
 I design, automate and run reliable cloud infrastructure, containerized applications and CI/CD workflows, with a focus on high availability, disaster recovery, security and cost optimization.
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR-USERNAME?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/shahid0777442?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:Shahid.653@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-F59E0B?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1B2A" alt="Email" /></a>
 
 </div>
@@ -116,8 +116,8 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=F59E0B&icon_color=14B8A6&text_color=E2E8F0" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&background=0D1B2A&border=0D1B2A&ring=14B8A6&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahid0777442&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=F59E0B&icon_color=14B8A6&text_color=E2E8F0" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=shahid0777442&background=0D1B2A&border=0D1B2A&ring=14B8A6&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub streak" />
 
 </div>
 
@@ -127,7 +127,7 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 
 **Build · Automate · Secure · Recover**
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [Explore my repositories](https://github.com/YOUR-USERNAME?tab=repositories)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [Explore my repositories](https://github.com/shahid0777442?tab=repositories)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0D1B2A&height=100&section=footer" width="100%" alt="footer" />
 
