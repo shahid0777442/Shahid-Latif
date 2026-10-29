@@ -67,45 +67,33 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 
 ## 🧰 Technical Toolkit
 
+<div align="center">
+
 **☁️ Cloud**
 
-<img src="https://img.shields.io/badge/AWS-0D1B2A?style=flat-square&logo=amazonaws&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Azure-0D1B2A?style=flat-square&logo=microsoftazure&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/EC2-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/S3-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/VPC-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/IAM-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/RDS-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Route_53-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/CloudWatch-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Lambda-0F766E?style=flat-square" />
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-0D1B2A?style=for-the-badge&logo=amazonaws&logoColor=F59E0B" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0D1B2A?style=for-the-badge&logo=microsoftazure&logoColor=F59E0B" alt="Azure" /> <img src="https://img.shields.io/badge/EC2-0F766E?style=for-the-badge" alt="EC2" /> <img src="https://img.shields.io/badge/S3-0F766E?style=for-the-badge" alt="S3" /> <img src="https://img.shields.io/badge/VPC-0F766E?style=for-the-badge" alt="VPC" /> <img src="https://img.shields.io/badge/IAM-0F766E?style=for-the-badge" alt="IAM" /> <img src="https://img.shields.io/badge/RDS-0F766E?style=for-the-badge" alt="RDS" /> <img src="https://img.shields.io/badge/Route_53-0F766E?style=for-the-badge" alt="Route 53" /> <img src="https://img.shields.io/badge/CloudWatch-0F766E?style=for-the-badge" alt="CloudWatch" /> <img src="https://img.shields.io/badge/Lambda-0F766E?style=for-the-badge" alt="Lambda" />
+</p>
 
 **🐳 Containers & Orchestration**
 
-<img src="https://img.shields.io/badge/Docker-0D1B2A?style=flat-square&logo=docker&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Kubernetes-0D1B2A?style=flat-square&logo=kubernetes&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Helm-0D1B2A?style=flat-square&logo=helm&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/ECS_Fargate-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/EKS-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/AKS-0F766E?style=flat-square" />
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-0D1B2A?style=for-the-badge&logo=docker&logoColor=F59E0B" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-0D1B2A?style=for-the-badge&logo=kubernetes&logoColor=F59E0B" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Helm-0D1B2A?style=for-the-badge&logo=helm&logoColor=F59E0B" alt="Helm" /> <img src="https://img.shields.io/badge/ECS_Fargate-0F766E?style=for-the-badge" alt="ECS Fargate" /> <img src="https://img.shields.io/badge/EKS-0F766E?style=for-the-badge" alt="EKS" /> <img src="https://img.shields.io/badge/AKS-0F766E?style=for-the-badge" alt="AKS" />
+</p>
 
 **⚙️ CI/CD, IaC & Automation**
 
-<img src="https://img.shields.io/badge/Terraform-0D1B2A?style=flat-square&logo=terraform&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Ansible-0D1B2A?style=flat-square&logo=ansible&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Jenkins-0D1B2A?style=flat-square&logo=jenkins&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Argo_CD-0D1B2A?style=flat-square&logo=argo&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Git-0D1B2A?style=flat-square&logo=git&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Bash-0D1B2A?style=flat-square&logo=gnubash&logoColor=F59E0B" />
+<p align="center">
+<img src="https://img.shields.io/badge/Terraform-0D1B2A?style=for-the-badge&logo=terraform&logoColor=F59E0B" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-0D1B2A?style=for-the-badge&logo=ansible&logoColor=F59E0B" alt="Ansible" /> <img src="https://img.shields.io/badge/Jenkins-0D1B2A?style=for-the-badge&logo=jenkins&logoColor=F59E0B" alt="Jenkins" /> <img src="https://img.shields.io/badge/Argo_CD-0D1B2A?style=for-the-badge&logo=argo&logoColor=F59E0B" alt="Argo CD" /> <img src="https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=F59E0B" alt="Git" /> <img src="https://img.shields.io/badge/Bash-0D1B2A?style=for-the-badge&logo=gnubash&logoColor=F59E0B" alt="Bash" />
+</p>
 
 **📊 Monitoring & Systems**
 
-<img src="https://img.shields.io/badge/Prometheus-0D1B2A?style=flat-square&logo=prometheus&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Grafana-0D1B2A?style=flat-square&logo=grafana&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Linux-0D1B2A?style=flat-square&logo=linux&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Windows_Server-0D1B2A?style=flat-square&logo=windows&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Active_Directory-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/VMware_ESXi-0D1B2A?style=flat-square&logo=vmware&logoColor=F59E0B" />
+<p align="center">
+<img src="https://img.shields.io/badge/Prometheus-0D1B2A?style=for-the-badge&logo=prometheus&logoColor=F59E0B" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-0D1B2A?style=for-the-badge&logo=grafana&logoColor=F59E0B" alt="Grafana" /> <img src="https://img.shields.io/badge/Linux-0D1B2A?style=for-the-badge&logo=linux&logoColor=F59E0B" alt="Linux" /> <img src="https://img.shields.io/badge/Windows_Server-0D1B2A?style=for-the-badge&logo=windows&logoColor=F59E0B" alt="Windows Server" /> <img src="https://img.shields.io/badge/Active_Directory-0F766E?style=for-the-badge" alt="Active Directory" /> <img src="https://img.shields.io/badge/VMware_ESXi-0D1B2A?style=for-the-badge&logo=vmware&logoColor=F59E0B" alt="VMware ESXi" />
+</p>
+
+</div>
 
 ---
 
