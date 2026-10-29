@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0F766E&height=200&section=header&text=Shahid%20Latif&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Azure%20%7C%20Terraform%20%7C%20Kubernetes&descSize=16&descAlignY=60&descColor=F59E0B" width="100%" alt="Shahid Latif banner" />
+<img src="banner.svg" width="100%" alt="Shahid Latif banner" />
 
 **AWS-certified Cloud & Infrastructure Engineer · 11+ years in IT · Lahore, Pakistan**
 
@@ -125,10 +125,8 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 
 <div align="center">
 
-**Build · Automate · Secure · Recover**
-
 [Let's connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [Explore my repositories](https://github.com/shahid0777442?tab=repositories)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0D1B2A&height=100&section=footer" width="100%" alt="footer" />
+<img src="footer.svg" width="100%" alt="footer" />
 
 </div>
