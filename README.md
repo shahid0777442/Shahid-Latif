@@ -6,7 +6,7 @@
 
 I design, automate and run reliable cloud infrastructure, containerized applications and CI/CD workflows, with a focus on high availability, disaster recovery, security and cost optimization.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shahid-latif-03a8813a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" /></a>
 <a href="https://github.com/shahid0777442?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:Shahid.653@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-F59E0B?style=for-the-badge&logo=microsoftoutlook&logoColor=0D1B2A" alt="Email" /></a>
 
@@ -125,7 +125,7 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 
 <div align="center">
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) · [Explore my repositories](https://github.com/shahid0777442?tab=repositories)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/shahid-latif-03a8813a) · [Explore my repositories](https://github.com/shahid0777442?tab=repositories)
 
 <img src="footer.svg" width="100%" alt="footer" />
 
