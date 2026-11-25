@@ -45,6 +45,25 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 - Implemented GitOps with **Helm** and **Argo CD** (Image Updater); automated configuration and patching with **Ansible**.
 - Set up monitoring with CloudWatch, Prometheus and Grafana; worked on Azure (VMs, AKS, ACR, Key Vault, Entra ID).
 
+### DevOps Engineer (Internship) · Progree (Islamabad, Remote)
+`Nov 2026 – Nov 2026`
+
+- Containerized multi-service web apps (Node.js, Nginx, PostgreSQL, Redis) with multi-stage Docker builds, Alpine base images and Docker Compose, significantly reducing image size compared with single-stage builds.
+- Hardened container environments: non-root users, read-only filesystems, dropped Linux capabilities, Docker secrets for credentials and isolated internal networks so only the web tier is exposed.
+- Built **GitHub Actions** CI/CD pipelines: lint, unit tests, Docker build, **Trivy** vulnerability scanning, push to GHCR, automated SSH deployment to Linux servers and AWS EC2, health-check verification and automatic rollback on failure.
+- Tagged images with commit SHAs for traceable releases and easy rollbacks; configured Dependabot for automated dependency updates.
+- Provisioned AWS infrastructure with **Terraform** (VPC, public/private subnets across 2 AZs, NAT gateway, EKS cluster, ECR).
+- Deployed apps on **Kubernetes** (EKS/Minikube) with Deployments, Services, NGINX Ingress, PVCs, health probes, rolling updates and Horizontal Pod Autoscaling (2 to 6 pods).
+- Documented architecture, runbooks and deployment procedures for each project.
+
+### Cloud Computing & DevOps (Internship) · Codomax Digital Solutions (Remote)
+`Oct 2026 – Nov 2026`
+
+- Deployed a Flask + PostgreSQL app on AWS (EC2, RDS, S3, VPC, IAM, Secrets Manager) with Nginx and Gunicorn.
+- Containerized a Node.js + MongoDB app with Docker Compose, using optimized images, volumes and custom networks.
+- Built a **GitHub Actions** CI/CD pipeline that tests, builds, pushes and auto-deploys to EC2.
+- Set up **Prometheus** and **Grafana** dashboards plus uptime alerts for production monitoring.
+
 ### Cloud Consultant · IPNET Technologies Sàrl (Switzerland, Remote)
 `Aug 2024 – Aug 2026`
 
@@ -84,7 +103,7 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 **⚙️ CI/CD, IaC & Automation**
 
 <p align="center">
-<img src="https://img.shields.io/badge/Terraform-0D1B2A?style=for-the-badge&logo=terraform&logoColor=F59E0B" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-0D1B2A?style=for-the-badge&logo=ansible&logoColor=F59E0B" alt="Ansible" /> <img src="https://img.shields.io/badge/Jenkins-0D1B2A?style=for-the-badge&logo=jenkins&logoColor=F59E0B" alt="Jenkins" /> <img src="https://img.shields.io/badge/Argo_CD-0D1B2A?style=for-the-badge&logo=argo&logoColor=F59E0B" alt="Argo CD" /> <img src="https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=F59E0B" alt="Git" /> <img src="https://img.shields.io/badge/Bash-0D1B2A?style=for-the-badge&logo=gnubash&logoColor=F59E0B" alt="Bash" />
+<img src="https://img.shields.io/badge/Terraform-0D1B2A?style=for-the-badge&logo=terraform&logoColor=F59E0B" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-0D1B2A?style=for-the-badge&logo=ansible&logoColor=F59E0B" alt="Ansible" /> <img src="https://img.shields.io/badge/Jenkins-0D1B2A?style=for-the-badge&logo=jenkins&logoColor=F59E0B" alt="Jenkins" /> <img src="https://img.shields.io/badge/Argo_CD-0D1B2A?style=for-the-badge&logo=argo&logoColor=F59E0B" alt="Argo CD" /> <img src="https://img.shields.io/badge/GitHub_Actions-0D1B2A?style=for-the-badge&logo=githubactions&logoColor=F59E0B" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Git-0D1B2A?style=for-the-badge&logo=git&logoColor=F59E0B" alt="Git" /> <img src="https://img.shields.io/badge/Bash-0D1B2A?style=for-the-badge&logo=gnubash&logoColor=F59E0B" alt="Bash" />
 </p>
 
 **📊 Monitoring & Systems**
@@ -103,7 +122,7 @@ I design, automate and run reliable cloud infrastructure, containerized applicat
 |:--|:--|
 | **AWS Infrastructure** | Multi-tier architectures with VPC, Load Balancers, Auto Scaling, VPC Peering, IAM least-privilege and RDS/DynamoDB data layers. |
 | **Infrastructure as Code** | Reusable Terraform modules and workspaces for consistent Dev, Staging and Prod environments. |
-| **CI/CD Pipelines** | Declarative and multibranch Jenkins pipelines with shared libraries, pushing images to Docker Hub, GHCR and AWS ECR. |
+| **CI/CD Pipelines** | Declarative and multibranch Jenkins pipelines with shared libraries, plus GitHub Actions workflows with Trivy scanning, automated EC2 deployment and rollback, pushing images to Docker Hub, GHCR and AWS ECR. |
 | **Containers & Kubernetes** | Multi-stage Docker builds, Compose stacks, and Kubernetes deployments with probes, RBAC, Ingress and StatefulSets. |
 | **GitOps** | Helm charts with Argo CD and Image Updater for automated, auditable deployments. |
 | **Configuration Management** | Ansible playbooks, roles, Vault and Jinja2 templates for patching and server configuration. |
